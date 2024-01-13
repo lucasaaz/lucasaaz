@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0081e8&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a5d3f8&size=19&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Lucas+Augusto;I%27m+22+years+old;I+am+from+Belo+Horizonte,+MG;I+study+Computer+Cience+at+PUC+Minas;Welcome!+:%29)](https://git.io/typing-svg)
 
 <h1 align="center">Olá 🖖🏾, Bem Vindo</h1>
 
@@ -54,11 +57,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=GitHub&logoColor=white&style=flat)&nbsp;
 
 <h1></h1>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasaaz&show_icons=true&count_private=true&hide_border=true&title_color=0081e8&icon_color=0081e8&text_color=FFFAFA&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaaz&layout=compact&hide_border=true&title_color=0081e8&text_color=FFFAFA&bg_color=0d1117" />
+</div>
+
+<h1></h1>
           
-  <center>
-    <tr>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasaaz&theme=radical"/> 
-    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaaz&hide=html&layout=compact&theme=radical" /> 
-    </tr>
-</center>  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0081e8&height=120&section=footer"/>
           
