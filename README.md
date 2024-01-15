@@ -55,6 +55,7 @@
 ![Git](https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat)&nbsp;
 ![Discord](https://img.shields.io/badge/-Discord-blue?logo=Discord&logoColor=white&style=flat)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=GitHub&logoColor=white&style=flat)&nbsp;
+![WordPress](https://img.shields.io/badge/-wordpress-lightgrey?logo=Wordpress&logoColor=white&style=flat)&nbsp;
 
 <h1></h1>
 
